@@ -1,3 +1,43 @@
+# News Web App 
+
+This is a news web app created using React and the NewAPI.org API. The app allows users to browse news articles from different categories such as home, business, entertainment, health, science, sports, and technology. It is built using class-based components in React and is designed to be responsive, ensuring a seamless user experience across different devices.
+
+# Features
+Home: Displays the latest news articles from various categories.
+
+Business: Shows news articles related to business and finance.
+
+Entertainment: Provides news articles about the entertainment industry, including movies, music, and celebrity updates.
+
+Health: Offers health-related news articles, covering topics such as fitness, wellness, and medical advancements.
+
+Science: Presents news articles focused on scientific discoveries, space exploration, and technological advancements.
+
+Sports: Displays news articles related to different sports, including updates on matches, tournaments, and athletes.
+
+Technology: Provides news articles about the latest advancements in technology, gadgets, and innovation.
+
+# Tech Stack
+
+The following technologies were used to develop this project:
+
+React: A JavaScript library for building user interfaces.
+
+NewAPI.org: A news API that provides access to a wide range of news articles from various sources.
+
+HTML5: The standard markup language for building web pages.
+
+CSS3: The style sheet language used for describing the presentation of a document written in HTML.
+
+Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
+
+JavaScript: A programming language used to add interactivity to web pages.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
